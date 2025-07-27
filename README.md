@@ -52,7 +52,7 @@ shopper-spectrum/
 Local Installation
 
 Clone the repository
-bashgit clone https://github.com/YOUR_USERNAME/shopper-spectrum.git
+bashgit clone https://github.com/Incharapm0915/shopper-spectrum.git
 cd shopper-spectrum
 
 Create virtual environment
