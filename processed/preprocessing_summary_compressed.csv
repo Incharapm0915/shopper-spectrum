@@ -1,0 +1,6 @@
+step,description,records_removed,records_remaining,percentage_remaining
+Step 2,Remove missing CustomerID,135080,406829,75.07
+Step 3,Remove cancelled invoices (InvoiceNo starting with 'C'),8905,397924,73.43
+Step 4,Remove zero/negative quantities,0,397924,73.43
+Step 5,Remove zero/negative prices,40,397884,73.42
+Step 6,Remove duplicate rows,5192,392692,72.46
